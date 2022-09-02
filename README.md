@@ -1,5 +1,5 @@
 ### Hi there 👋
-[]
+[https://github.com/zmiamuo/zmiamuo/blob/main/gitbanner.svg]
 I'm Oumaima, a last year engineering student, particularly interested in DevOps and Cloud Computing, and member of the WomenTechmakers community.
 I am actively learning new technologies and skills in order to be as efficient as possible in my journey with my future company. 
 
