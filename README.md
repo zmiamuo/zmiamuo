@@ -1,6 +1,13 @@
 ### Hi there 👋
+[]
+I'm Oumaima, a last year engineering student, particularly interested in DevOps and Cloud Computing, and member of the WomenTechmakers community.
+I am actively learning new technologies and skills in order to be as efficient as possible in my journey with my future company. 
 
-I'm Oumaima, a last year engineering student, particularly interested  in DevOps and Cloud Computing.
+Skills:
+- Python 🐍
+- HTML,CSS,JS 💻
+- System Administration 👩‍💻
+- DevOps set: ansible, git, docker, kubernetes
 <!--
 **zmiamuo/zmiamuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
